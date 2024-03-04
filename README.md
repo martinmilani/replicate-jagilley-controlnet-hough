@@ -1,4 +1,4 @@
-## Getting Started with replicate-project
+## Getting Started with Pimp my Room
 
 First, install dependencies:
 
@@ -23,7 +23,7 @@ pnpm dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-## Remember to get your own [Replicate API key!!!](https://replicate.com/account/api-tokens)
+## Remember to get your own [Replicate API key!!!](https://replicate.com/account/api-tokens) and your [Cloudinary cloud name](https://cloudinary.com/)
 
 ### Model jagilley/controlnet-hough
 ### Usage
